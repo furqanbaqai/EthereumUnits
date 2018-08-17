@@ -1,0 +1,1 @@
+geth attach ipc:/home/baqai/.ethereum/net42/geth.ipc
